@@ -1,4 +1,5 @@
-statamic-google-analytics
+Google Analytics for Statamic
 =========================
 
-Simple Google Analytics plugin for Statamic 1.8+
+###Tag Usage:
+{{ google_analytics:add id="UA-47263492-1" }}
